@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'SenaMUN',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'SenaMUN',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -66,10 +66,11 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'SenaMUN',
+        title: 'S E N A M U N',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Logo SENAMUN',
           src: 'img/logo.svg',
+
         },
         items: [
           {
