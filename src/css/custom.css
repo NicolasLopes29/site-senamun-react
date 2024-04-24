@@ -7,26 +7,32 @@
 /* You can override the default Infima variables here. */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
+.navbar__item navbar__link {
+  color: #fff
+}
 /* /src/css/custom.css */
 .navbar__title {
   font-weight: 600;
   color: #FFF;
 }
 
+
+
 .navbar__title :hover{
   font-weight: 600;
-  color: #2c6fff;
   text-decoration: underline;
 }
 
 .navbar {
   background-color: #003C5E;
-  height: 70px  ;
+  height: 75px  ;
 }
 
 :root {
+  --ifm-global-radius: 0.65rem;
   --ifm-font-family-base: 'Poppins';
-  --ifm-color-primary: #2563eb;
+  --ifm-navbar-link-color: #F8F7F4;
+  --ifm-color-primary: #ff9500;
   --ifm-color-primary-dark: #1d4ed8;
   --ifm-color-primary-darker: #1e40af;
   --ifm-color-primary-darkest: #1e3a8a;
@@ -39,7 +45,7 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #add8e6;
+  --ifm-color-primary: #ffa600;
   --ifm-color-primary-dark: #93c6e4;
   --ifm-color-primary-darker: #7bb5e2;
   --ifm-color-primary-darkest: #6aa5e0;
@@ -47,11 +53,79 @@
   --ifm-color-primary-lighter: #d1e9f4;
   --ifm-color-primary-lightest: #e3f2f8;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+
 }
 
 .navbar__logo img {
-  height: 200%; /* Adjust as needed */
-  margin-top: -12px;
+  transform: rotate(0deg);
+  transition: transform 0.3s ease;
+  height: 250%; /* Adjust as needed */
+  margin-top: -19px;
   margin-left: 50px;
   margin-right: -15px; /* Optional: Modify the top margin */
+}
+
+.navbar__logo :hover {
+  transform: rotate(-10deg);
+}
+
+
+
+
+
+
+.clean-btn {
+  color: #fff;
+}
+
+.hero--primary {
+  --ifm-hero-background-color: #fff9e9;
+
+  height: 635px;
+}
+
+:where(.button--secondary) {
+  --ifm-button-border-width: 2.5px;
+  --ifm-button-background-color: #fff;
+  --ifm-button-border-color:  #004A8D;
+  --ifm-button-border-size: 50px;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  padding-left: 50px;
+
+}
+
+.text--center padding-horiz--md {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  text-align: justify;
+}
+
+.hero__title {
+  font-size: 4rem;
+  color: orange;
+  margin-left: 50px;
+}
+
+.hero__subtitle {
+  font-size: 1.5rem;
+  color: #004A8D;
+  font-weight:600;
+  margin-left: 50px;
+}
+
+.button {
+  margin-left: 50px;
+}
+
+
+.features_src-components-HomepageFeatures-styles-module {
+  background-color: #003C5E;
+}
+
+.text--center h3 {
+  color: orange;
 }

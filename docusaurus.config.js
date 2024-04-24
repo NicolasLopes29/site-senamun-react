@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'SenaMUN',
-  tagline: 'SenaMUN',
+  title: 'SenaMUN 2024',
+  tagline: 'Conferência Modelo ONU | Senac Nações Unidas',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://senamun.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'nicolaslopes29', // Usually your GitHub org/user name.
-  projectName: 'senamun', // Usually your repo name.
+  projectName: 'site-senamun-react', // Usually your repo name.-react
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -31,7 +31,7 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'pt-br',
-    locales: ['pt-br'],
+    locales: ['pt-br','en-us'],
   },
 
   presets: [
@@ -70,21 +70,23 @@ const config = {
         logo: {
           alt: 'Logo SENAMUN',
           src: 'img/logo.svg',
-
-        },
+        }, 
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
-            position: 'left',
-            label: 'Tutorial',
+            position: 'right',
+            label: 'SenaMUN 2024',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Notícias', position: 'right'},
+          {to: '/blog', label: 'Recursos', position: 'right'},
           {
             href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            label: 'Fale Conosco',
             position: 'right',
           },
+
+
         ],
       },
       footer: {
@@ -120,17 +122,17 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
+                label: 'Notícias',
                 to: '/blog',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/senamun_/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SenaMUN.`,
       },
       prism: {
         theme: prismThemes.github,
