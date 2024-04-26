@@ -1,25 +1,22 @@
 ---
-slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+slug: cachorro
+title: Cachorro Treinado para Fazer Yoga Vira Sensação nas Redes Sociais!!
+authors: [nicolaslopes29, yangshun]
+tags: [cachorro, yoga, senamun]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+Em uma reviravolta inesperada, um cachorro da raça Dálmata, chamado Zen, se tornou uma verdadeira celebridade nas redes sociais. O motivo? Ele foi treinado para praticar yoga!
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Segundo sua dona, a instrutora de yoga Fernanda Silva, Zen começou a imitar suas posturas durante as sessões matinais de alongamento. Em pouco tempo, o peludo já estava realizando saudações ao sol, posturas de lótus e até mesmo invertendo a posição do cachorro (literalmente!).
 
-Regular blog authors can be added to `authors.yml`.
+As fotos e vídeos de Zen em suas poses zen se espalharam como fogo nas redes sociais. Ele agora tem sua própria conta no Instagram, com milhares de seguidores fascinados por suas habilidades ióguicas. Os comentários variam de “Que fofura!” a “Esse cachorro é mais flexível do que eu!”.
 
-The blog post date can be extracted from filenames, such as:
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
 
-A blog post folder can be convenient to co-locate blog post images:
+![Cachorro Yoga](./cachorro-yoga.webp)
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+Agora, Zen está sendo convidado para participar de programas de TV, dar entrevistas e até mesmo ministrar aulas de yoga para outros animais de estimação. Sua fama está crescendo tão rapidamente que há rumores de que ele será o próximo convidado do Big Brother Pet Edition.
 
-The blog supports tags as well!
+Quando perguntado sobre seu segredo para a flexibilidade, Zen piscou um olho e latiu: “A verdadeira iluminação está em alongar os ossinhos e manter a mente tranquila. Além disso, um biscoito de recompensa após cada postura também ajuda!”
 
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+E assim, Zen, o cachorro iogue, continua a inspirar a todos nós a encontrar nosso equilíbrio interior, mesmo que isso signifique fazer uma saudação ao sol com quatro patas. 

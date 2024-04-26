@@ -113,8 +113,8 @@ const config = {
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@senacmun?_t=8kp3yJ88AEP&_r=1',
               },
             ],
           },
