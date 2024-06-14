@@ -1,0 +1,57 @@
+{
+  "permalink": "/blog/bolsonaro-pombo",
+  "source": "@site/blog/2021-08-26-welcome/2024-04-24-bolsonaro.md",
+  "title": "Ex-Presidente Bolsonaro Treina Pombos-Correio para Debater Política",
+  "description": "Em uma reviravolta inusitada, o ex-presidente brasileiro Jair Bolsonaro encontrou uma maneira peculiar de se manter ativo na política após deixar o cargo. Ele agora treina pombos-correio para debater questões políticas com outros pássaros.",
+  "date": "2024-04-24T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "política",
+      "permalink": "/blog/tags/politica"
+    },
+    {
+      "label": "bolsonaro",
+      "permalink": "/blog/tags/bolsonaro"
+    },
+    {
+      "label": "pombo",
+      "permalink": "/blog/tags/pombo"
+    }
+  ],
+  "readingTime": 1.085,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Nicolas Bustamante",
+      "title": "Estudante no Senac",
+      "url": "https://www.instagram.com/nlopes.__/",
+      "imageURL": "https://media.licdn.com/dms/image/D4D03AQGXvGt2qozNRw/profile-displayphoto-shrink_800_800/0/1710326124256?e=1719446400&v=beta&t=dwNcMMpL6Q4cKZ9vHDLcJb_YRc0Em2SxGbaylKqmEq8",
+      "key": "nicolaslopes29"
+    },
+    {
+      "name": "Manoel Gomes",
+      "title": "Cantor",
+      "url": "https://www.youtube.com/channel/UCBKP9wmi77RVKrlqU8EUhBA",
+      "imageURL": "https://yt3.googleusercontent.com/fqVEkuSr9CdD3yi8gDkZYebDE_d5UIuvtb-bvuja_xPQSPu6GSS7ha4c2rcJPNQIvXe6FUqOJvU=s900-c-k-c0x00ffffff-no-rj",
+      "key": "yangshun"
+    }
+  ],
+  "frontMatter": {
+    "slug": "bolsonaro-pombo",
+    "title": "Ex-Presidente Bolsonaro Treina Pombos-Correio para Debater Política",
+    "authors": [
+      "nicolaslopes29",
+      "yangshun"
+    ],
+    "tags": [
+      "política",
+      "bolsonaro",
+      "pombo"
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Cachorro Treinado para Fazer Yoga Vira Sensação nas Redes Sociais!!",
+    "permalink": "/blog/cachorro"
+  }
+}

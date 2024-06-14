@@ -1,0 +1,164 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Quem somos?",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Senamun III",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create a Page",
+            "href": "/docs/Senamun III/create-a-page",
+            "docId": "Senamun III/create-a-page",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a Document",
+            "href": "/docs/Senamun III/create-a-document",
+            "docId": "Senamun III/create-a-document",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Create a Blog Post",
+            "href": "/docs/Senamun III/create-a-blog-post",
+            "docId": "Senamun III/create-a-blog-post",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Markdown Features",
+            "href": "/docs/Senamun III/markdown-features",
+            "docId": "Senamun III/markdown-features",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Deploy your site",
+            "href": "/docs/Senamun III/deploy-your-site",
+            "docId": "Senamun III/deploy-your-site",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Congratulations!",
+            "href": "/docs/Senamun III/congratulations",
+            "docId": "Senamun III/congratulations",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/senamun-iii"
+      },
+      {
+        "type": "category",
+        "label": "Edições Passadas",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Senamun I",
+            "href": "/docs/Edições Passadas/senamun-i",
+            "docId": "Edições Passadas/senamun-i",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Senamun II",
+            "href": "/docs/Edições Passadas/senamun-ii",
+            "docId": "Edições Passadas/senamun-ii",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/edições-passadas"
+      },
+      {
+        "type": "link",
+        "label": "Fale conosco",
+        "href": "/docs/fale-conosco",
+        "docId": "fale-conosco",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "Edições Passadas/senamun-i": {
+      "id": "Edições Passadas/senamun-i",
+      "title": "Senamun I",
+      "description": "Docusaurus can manage multiple versions of your docs.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Edições Passadas/senamun-ii": {
+      "id": "Edições Passadas/senamun-ii",
+      "title": "Senamun II",
+      "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "fale-conosco": {
+      "id": "fale-conosco",
+      "title": "Fale conosco",
+      "description": "Você pode nos contatar no email senamun@gmail.com ou pelas nossas redes sociais.",
+      "sidebar": "tutorialSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Quem somos?",
+      "description": "As simulações da ONU, também conhecidas como MUN (Modelo United Nations) são eventos acadêmicos onde alunos atuam como delegações, imprensa e movimentos sociais para representar países e organizações dentro do cenário político internacional, tendo como objetivo debater e apresentar soluções coerentes de acordo com a proposta de cada comitê.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Senamun III/congratulations": {
+      "id": "Senamun III/congratulations",
+      "title": "Congratulations!",
+      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Senamun III/create-a-blog-post": {
+      "id": "Senamun III/create-a-blog-post",
+      "title": "Create a Blog Post",
+      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+      "sidebar": "tutorialSidebar"
+    },
+    "Senamun III/create-a-document": {
+      "id": "Senamun III/create-a-document",
+      "title": "Create a Document",
+      "description": "Documents are groups of pages connected through:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Senamun III/create-a-page": {
+      "id": "Senamun III/create-a-page",
+      "title": "Create a Page",
+      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Senamun III/deploy-your-site": {
+      "id": "Senamun III/deploy-your-site",
+      "title": "Deploy your site",
+      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+      "sidebar": "tutorialSidebar"
+    },
+    "Senamun III/markdown-features": {
+      "id": "Senamun III/markdown-features",
+      "title": "Markdown Features",
+      "description": "Docusaurus supports Markdown and a few additional features.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

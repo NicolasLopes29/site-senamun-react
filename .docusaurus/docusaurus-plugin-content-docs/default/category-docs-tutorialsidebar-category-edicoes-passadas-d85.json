@@ -1,0 +1,15 @@
+{
+  "title": "Edições Passadas",
+  "slug": "/category/edições-passadas",
+  "permalink": "/docs/category/edições-passadas",
+  "navigation": {
+    "previous": {
+      "title": "Congratulations!",
+      "permalink": "/docs/Senamun III/congratulations"
+    },
+    "next": {
+      "title": "Senamun I",
+      "permalink": "/docs/Edições Passadas/senamun-i"
+    }
+  }
+}

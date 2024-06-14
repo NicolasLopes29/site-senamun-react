@@ -1,0 +1,701 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/nicolas/Desktop/.vscode/site-senamun-react/sidebars.js",
+          "contentPath": "/home/nicolas/Desktop/.vscode/site-senamun-react/docs",
+          "contentPathLocalized": "/home/nicolas/Desktop/.vscode/site-senamun-react/i18n/pt-br/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "id": "Edições Passadas/senamun-i",
+              "title": "Senamun I",
+              "description": "Docusaurus can manage multiple versions of your docs.",
+              "source": "@site/docs/Edições Passadas/senamun-i.md",
+              "sourceDirName": "Edições Passadas",
+              "slug": "/Edições Passadas/senamun-i",
+              "permalink": "/docs/Edições Passadas/senamun-i",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Edições Passadas",
+                "permalink": "/docs/category/edições-passadas"
+              },
+              "next": {
+                "title": "Senamun II",
+                "permalink": "/docs/Edições Passadas/senamun-ii"
+              }
+            },
+            {
+              "id": "Edições Passadas/senamun-ii",
+              "title": "Senamun II",
+              "description": "Let's translate docs/intro.md to French.",
+              "source": "@site/docs/Edições Passadas/senamun-ii.md",
+              "sourceDirName": "Edições Passadas",
+              "slug": "/Edições Passadas/senamun-ii",
+              "permalink": "/docs/Edições Passadas/senamun-ii",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Senamun I",
+                "permalink": "/docs/Edições Passadas/senamun-i"
+              },
+              "next": {
+                "title": "Fale conosco",
+                "permalink": "/docs/fale-conosco"
+              }
+            },
+            {
+              "id": "fale-conosco",
+              "title": "Fale conosco",
+              "description": "Você pode nos contatar no email senamun@gmail.com ou pelas nossas redes sociais.",
+              "source": "@site/docs/fale-conosco.md",
+              "sourceDirName": ".",
+              "slug": "/fale-conosco",
+              "permalink": "/docs/fale-conosco",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 10,
+              "frontMatter": {
+                "sidebar_position": 10
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Senamun II",
+                "permalink": "/docs/Edições Passadas/senamun-ii"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Quem somos?",
+              "description": "As simulações da ONU, também conhecidas como MUN (Modelo United Nations) são eventos acadêmicos onde alunos atuam como delegações, imprensa e movimentos sociais para representar países e organizações dentro do cenário político internacional, tendo como objetivo debater e apresentar soluções coerentes de acordo com a proposta de cada comitê.",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Senamun III",
+                "permalink": "/docs/category/senamun-iii"
+              }
+            },
+            {
+              "id": "Senamun III/congratulations",
+              "title": "Congratulations!",
+              "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+              "source": "@site/docs/Senamun III/congratulations.md",
+              "sourceDirName": "Senamun III",
+              "slug": "/Senamun III/congratulations",
+              "permalink": "/docs/Senamun III/congratulations",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 6,
+              "frontMatter": {
+                "sidebar_position": 6
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Deploy your site",
+                "permalink": "/docs/Senamun III/deploy-your-site"
+              },
+              "next": {
+                "title": "Edições Passadas",
+                "permalink": "/docs/category/edições-passadas"
+              }
+            },
+            {
+              "id": "Senamun III/create-a-blog-post",
+              "title": "Create a Blog Post",
+              "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+              "source": "@site/docs/Senamun III/create-a-blog-post.md",
+              "sourceDirName": "Senamun III",
+              "slug": "/Senamun III/create-a-blog-post",
+              "permalink": "/docs/Senamun III/create-a-blog-post",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Document",
+                "permalink": "/docs/Senamun III/create-a-document"
+              },
+              "next": {
+                "title": "Markdown Features",
+                "permalink": "/docs/Senamun III/markdown-features"
+              }
+            },
+            {
+              "id": "Senamun III/create-a-document",
+              "title": "Create a Document",
+              "description": "Documents are groups of pages connected through:",
+              "source": "@site/docs/Senamun III/create-a-document.md",
+              "sourceDirName": "Senamun III",
+              "slug": "/Senamun III/create-a-document",
+              "permalink": "/docs/Senamun III/create-a-document",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Page",
+                "permalink": "/docs/Senamun III/create-a-page"
+              },
+              "next": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/Senamun III/create-a-blog-post"
+              }
+            },
+            {
+              "id": "Senamun III/create-a-page",
+              "title": "Create a Page",
+              "description": "Add Markdown or React files to src/pages to create a standalone page:",
+              "source": "@site/docs/Senamun III/create-a-page.md",
+              "sourceDirName": "Senamun III",
+              "slug": "/Senamun III/create-a-page",
+              "permalink": "/docs/Senamun III/create-a-page",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Senamun III",
+                "permalink": "/docs/category/senamun-iii"
+              },
+              "next": {
+                "title": "Create a Document",
+                "permalink": "/docs/Senamun III/create-a-document"
+              }
+            },
+            {
+              "id": "Senamun III/deploy-your-site",
+              "title": "Deploy your site",
+              "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+              "source": "@site/docs/Senamun III/deploy-your-site.md",
+              "sourceDirName": "Senamun III",
+              "slug": "/Senamun III/deploy-your-site",
+              "permalink": "/docs/Senamun III/deploy-your-site",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Markdown Features",
+                "permalink": "/docs/Senamun III/markdown-features"
+              },
+              "next": {
+                "title": "Congratulations!",
+                "permalink": "/docs/Senamun III/congratulations"
+              }
+            },
+            {
+              "id": "Senamun III/markdown-features",
+              "title": "Markdown Features",
+              "description": "Docusaurus supports Markdown and a few additional features.",
+              "source": "@site/docs/Senamun III/markdown-features.mdx",
+              "sourceDirName": "Senamun III",
+              "slug": "/Senamun III/markdown-features",
+              "permalink": "/docs/Senamun III/markdown-features",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create a Blog Post",
+                "permalink": "/docs/Senamun III/create-a-blog-post"
+              },
+              "next": {
+                "title": "Deploy your site",
+                "permalink": "/docs/Senamun III/deploy-your-site"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Senamun III",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Senamun III/create-a-page"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Senamun III/create-a-document"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Senamun III/create-a-blog-post"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Senamun III/markdown-features"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Senamun III/deploy-your-site"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Senamun III/congratulations"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/senamun-iii",
+                  "permalink": "/docs/category/senamun-iii"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Edições Passadas",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Edições Passadas/senamun-i"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Edições Passadas/senamun-ii"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/edições-passadas",
+                  "permalink": "/docs/category/edições-passadas"
+                }
+              },
+              {
+                "type": "doc",
+                "id": "fale-conosco"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "cachorro",
+          "metadata": {
+            "permalink": "/blog/cachorro",
+            "source": "@site/blog/2021-08-26-welcome/2024-04-25-cachorro.md",
+            "title": "Cachorro Treinado para Fazer Yoga Vira Sensação nas Redes Sociais!!",
+            "description": "Em uma reviravolta inesperada, um cachorro da raça Dálmata, chamado Zen, se tornou uma verdadeira celebridade nas redes sociais. O motivo? Ele foi treinado para praticar yoga!",
+            "date": "2024-04-25T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "cachorro",
+                "permalink": "/blog/tags/cachorro"
+              },
+              {
+                "label": "yoga",
+                "permalink": "/blog/tags/yoga"
+              },
+              {
+                "label": "senamun",
+                "permalink": "/blog/tags/senamun"
+              }
+            ],
+            "readingTime": 1.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Nicolas Bustamante",
+                "title": "Estudante no Senac",
+                "url": "https://www.instagram.com/nlopes.__/",
+                "imageURL": "https://media.licdn.com/dms/image/D4D03AQGXvGt2qozNRw/profile-displayphoto-shrink_800_800/0/1710326124256?e=1719446400&v=beta&t=dwNcMMpL6Q4cKZ9vHDLcJb_YRc0Em2SxGbaylKqmEq8",
+                "key": "nicolaslopes29"
+              },
+              {
+                "name": "Manoel Gomes",
+                "title": "Cantor",
+                "url": "https://www.youtube.com/channel/UCBKP9wmi77RVKrlqU8EUhBA",
+                "imageURL": "https://yt3.googleusercontent.com/fqVEkuSr9CdD3yi8gDkZYebDE_d5UIuvtb-bvuja_xPQSPu6GSS7ha4c2rcJPNQIvXe6FUqOJvU=s900-c-k-c0x00ffffff-no-rj",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "cachorro",
+              "title": "Cachorro Treinado para Fazer Yoga Vira Sensação nas Redes Sociais!!",
+              "authors": [
+                "nicolaslopes29",
+                "yangshun"
+              ],
+              "tags": [
+                "cachorro",
+                "yoga",
+                "senamun"
+              ]
+            },
+            "unlisted": false,
+            "nextItem": {
+              "title": "Ex-Presidente Bolsonaro Treina Pombos-Correio para Debater Política",
+              "permalink": "/blog/bolsonaro-pombo"
+            }
+          },
+          "content": "Em uma reviravolta inesperada, um cachorro da raça Dálmata, chamado Zen, se tornou uma verdadeira celebridade nas redes sociais. O motivo? Ele foi treinado para praticar yoga!\n\nSegundo sua dona, a instrutora de yoga Fernanda Silva, Zen começou a imitar suas posturas durante as sessões matinais de alongamento. Em pouco tempo, o peludo já estava realizando saudações ao sol, posturas de lótus e até mesmo invertendo a posição do cachorro (literalmente!).\n\nAs fotos e vídeos de Zen em suas poses zen se espalharam como fogo nas redes sociais. Ele agora tem sua própria conta no Instagram, com milhares de seguidores fascinados por suas habilidades ióguicas. Os comentários variam de “Que fofura!” a “Esse cachorro é mais flexível do que eu!”.\n\n\n\n![Cachorro Yoga](./cachorro-yoga.webp)\n\nAgora, Zen está sendo convidado para participar de programas de TV, dar entrevistas e até mesmo ministrar aulas de yoga para outros animais de estimação. Sua fama está crescendo tão rapidamente que há rumores de que ele será o próximo convidado do Big Brother Pet Edition.\n\nQuando perguntado sobre seu segredo para a flexibilidade, Zen piscou um olho e latiu: “A verdadeira iluminação está em alongar os ossinhos e manter a mente tranquila. Além disso, um biscoito de recompensa após cada postura também ajuda!”\n\nE assim, Zen, o cachorro iogue, continua a inspirar a todos nós a encontrar nosso equilíbrio interior, mesmo que isso signifique fazer uma saudação ao sol com quatro patas."
+        },
+        {
+          "id": "bolsonaro-pombo",
+          "metadata": {
+            "permalink": "/blog/bolsonaro-pombo",
+            "source": "@site/blog/2021-08-26-welcome/2024-04-24-bolsonaro.md",
+            "title": "Ex-Presidente Bolsonaro Treina Pombos-Correio para Debater Política",
+            "description": "Em uma reviravolta inusitada, o ex-presidente brasileiro Jair Bolsonaro encontrou uma maneira peculiar de se manter ativo na política após deixar o cargo. Ele agora treina pombos-correio para debater questões políticas com outros pássaros.",
+            "date": "2024-04-24T00:00:00.000Z",
+            "tags": [
+              {
+                "label": "política",
+                "permalink": "/blog/tags/politica"
+              },
+              {
+                "label": "bolsonaro",
+                "permalink": "/blog/tags/bolsonaro"
+              },
+              {
+                "label": "pombo",
+                "permalink": "/blog/tags/pombo"
+              }
+            ],
+            "readingTime": 1.085,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Nicolas Bustamante",
+                "title": "Estudante no Senac",
+                "url": "https://www.instagram.com/nlopes.__/",
+                "imageURL": "https://media.licdn.com/dms/image/D4D03AQGXvGt2qozNRw/profile-displayphoto-shrink_800_800/0/1710326124256?e=1719446400&v=beta&t=dwNcMMpL6Q4cKZ9vHDLcJb_YRc0Em2SxGbaylKqmEq8",
+                "key": "nicolaslopes29"
+              },
+              {
+                "name": "Manoel Gomes",
+                "title": "Cantor",
+                "url": "https://www.youtube.com/channel/UCBKP9wmi77RVKrlqU8EUhBA",
+                "imageURL": "https://yt3.googleusercontent.com/fqVEkuSr9CdD3yi8gDkZYebDE_d5UIuvtb-bvuja_xPQSPu6GSS7ha4c2rcJPNQIvXe6FUqOJvU=s900-c-k-c0x00ffffff-no-rj",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "bolsonaro-pombo",
+              "title": "Ex-Presidente Bolsonaro Treina Pombos-Correio para Debater Política",
+              "authors": [
+                "nicolaslopes29",
+                "yangshun"
+              ],
+              "tags": [
+                "política",
+                "bolsonaro",
+                "pombo"
+              ]
+            },
+            "unlisted": false,
+            "prevItem": {
+              "title": "Cachorro Treinado para Fazer Yoga Vira Sensação nas Redes Sociais!!",
+              "permalink": "/blog/cachorro"
+            }
+          },
+          "content": "Em uma reviravolta inusitada, o ex-presidente brasileiro Jair Bolsonaro encontrou uma maneira peculiar de se manter ativo na política após deixar o cargo. Ele agora treina pombos-correio para debater questões políticas com outros pássaros.\n\n![Bolsonaro](./bolsonaro.jpg)\n\nSegundo fontes próximas, Bolsonaro passa horas diárias no quintal de sua casa em Orlando, vestindo um terno e gravata, enquanto instrui os pombos em assuntos como economia, segurança pública e reformas constitucionais. Os vizinhos relatam que frequentemente ouvem o ex-presidente gritando: “Vocês precisam entender a importância da reforma tributária, meus amigos emplumados!”\n\nOs pombos, apelidados de “Bolsopombos”, agora frequentam debates políticos em praças públicas, onde voam em círculos e trocam mensagens sobre temas como inflação, meio ambiente e relações internacionais. Alguns até carregam pequenos cartazes com slogans como “Menos impostos, mais milho!” e “Paz entre os poleiros!”\n\n![Pombo](./pombo-correio.jpg)\n\nA estratégia de Bolsonaro tem dividido opiniões. Enquanto alguns o veem como um visionário, outros consideram sua abordagem alada como um sinal de que a política está realmente “voando baixo”. O atual presidente, Luiz Inácio Lula da Silva, comentou: “Se Bolsonaro quer debater com pombos, que o faça. Mas eu prefiro discutir com humanos.”\n\nEnquanto isso, os Bolsopombos continuam a ganhar seguidores nas redes sociais, com hashtags como #PomboDebate e #AsasParaTodos. Quem sabe, talvez o próximo grande debate presidencial seja realizado em um galinheiro."
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "cachorro",
+            "bolsonaro-pombo"
+          ],
+          "metadata": {
+            "permalink": "/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 2,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/blog/tags/cachorro": {
+          "label": "cachorro",
+          "items": [
+            "cachorro"
+          ],
+          "permalink": "/blog/tags/cachorro",
+          "pages": [
+            {
+              "items": [
+                "cachorro"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/cachorro",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/yoga": {
+          "label": "yoga",
+          "items": [
+            "cachorro"
+          ],
+          "permalink": "/blog/tags/yoga",
+          "pages": [
+            {
+              "items": [
+                "cachorro"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/yoga",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/senamun": {
+          "label": "senamun",
+          "items": [
+            "cachorro"
+          ],
+          "permalink": "/blog/tags/senamun",
+          "pages": [
+            {
+              "items": [
+                "cachorro"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/senamun",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/politica": {
+          "label": "política",
+          "items": [
+            "bolsonaro-pombo"
+          ],
+          "permalink": "/blog/tags/politica",
+          "pages": [
+            {
+              "items": [
+                "bolsonaro-pombo"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/politica",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/bolsonaro": {
+          "label": "bolsonaro",
+          "items": [
+            "bolsonaro-pombo"
+          ],
+          "permalink": "/blog/tags/bolsonaro",
+          "pages": [
+            {
+              "items": [
+                "bolsonaro-pombo"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/bolsonaro",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        },
+        "/blog/tags/pombo": {
+          "label": "pombo",
+          "items": [
+            "bolsonaro-pombo"
+          ],
+          "permalink": "/blog/tags/pombo",
+          "pages": [
+            {
+              "items": [
+                "bolsonaro-pombo"
+              ],
+              "metadata": {
+                "permalink": "/blog/tags/pombo",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ],
+          "unlisted": false
+        }
+      },
+      "blogTagsListPath": "/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/comites",
+        "source": "@site/src/pages/comites.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/cronograma",
+        "source": "@site/src/pages/cronograma.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/mapa",
+        "source": "@site/src/pages/mapa.jsx"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      },
+      {
+        "type": "jsx",
+        "permalink": "/quem-somos-nos",
+        "source": "@site/src/pages/quem-somos-nos.tsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/secretariado",
+        "source": "@site/src/pages/secretariado.tsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/comites/ingles",
+        "source": "@site/src/pages/comites/ingles.jsx"
+      },
+      {
+        "type": "jsx",
+        "permalink": "/comites/portugues",
+        "source": "@site/src/pages/comites/portugues.jsx"
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

@@ -1,0 +1,306 @@
+{
+  "/__docusaurus/debug-736": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-828-4eb"
+    }
+  },
+  "/__docusaurus/debug/config-421": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-828-4eb"
+    }
+  },
+  "/__docusaurus/debug/content-2ef": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-828-4eb"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-c40": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-828-4eb"
+    }
+  },
+  "/__docusaurus/debug/metadata-35c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-828-4eb"
+    }
+  },
+  "/__docusaurus/debug/registry-619": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-828-4eb"
+    }
+  },
+  "/__docusaurus/debug/routes-887": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-828-4eb"
+    }
+  },
+  "/blog-6ae": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogade-a28"
+      },
+      {
+        "content": "content---blog-78-f-f20"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-874": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/bolsonaro-pombo-107": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-bolsonaro-pomboace-953"
+      },
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-bolsonaro-pombodf-7-a73"
+  },
+  "/blog/cachorro-657": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "data": {
+        "blogMetadata": "blogMetadata---blog-bolsonaro-pomboace-953"
+      },
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-cachorro-05-d-79d"
+  },
+  "/blog/tags-cad": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/bolsonaro-70b": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-78-f-f20"
+      }
+    ],
+    "tag": "tag---blog-tags-bolsonaro-539-c73",
+    "listMetadata": "listMetadata---blog-tags-bolsonarof-6-f-6df"
+  },
+  "/blog/tags/cachorro-780": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogade-a28"
+      }
+    ],
+    "tag": "tag---blog-tags-cachorro-84-c-3dc",
+    "listMetadata": "listMetadata---blog-tags-cachorro-455-654"
+  },
+  "/blog/tags/politica-e98": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-78-f-f20"
+      }
+    ],
+    "tag": "tag---blog-tags-politica-089-35a",
+    "listMetadata": "listMetadata---blog-tags-politicaefb-7ea"
+  },
+  "/blog/tags/pombo-f2e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-78-f-f20"
+      }
+    ],
+    "tag": "tag---blog-tags-pombo-321-799",
+    "listMetadata": "listMetadata---blog-tags-pombocfc-dfb"
+  },
+  "/blog/tags/senamun-d77": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogade-a28"
+      }
+    ],
+    "tag": "tag---blog-tags-senamun-1-d-6-9f3",
+    "listMetadata": "listMetadata---blog-tags-senamun-80-f-efc"
+  },
+  "/blog/tags/yoga-325": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-7-b-6-ff6"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blogade-a28"
+      }
+    ],
+    "tag": "tag---blog-tags-yoga-800-0e3",
+    "listMetadata": "listMetadata---blog-tags-yoga-267-209"
+  },
+  "/comites-cde": {
+    "__comp": "__comp---site-src-pages-comites-jsxea-6-1a7",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "config": "config---comites-5-e-9-592"
+  },
+  "/comites/ingles-3a9": {
+    "__comp": "__comp---site-src-pages-comites-ingles-jsx-5-e-7-78d",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "config": "config---comites-5-e-9-592"
+  },
+  "/comites/portugues-a91": {
+    "__comp": "__comp---site-src-pages-comites-portugues-jsx-164-1db",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "config": "config---comites-5-e-9-592"
+  },
+  "/cronograma-913": {
+    "__comp": "__comp---site-src-pages-cronograma-jsx-7-a-0-1fa",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "config": "config---comites-5-e-9-592"
+  },
+  "/mapa-d46": {
+    "__comp": "__comp---site-src-pages-mapa-jsx-461-20f",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "config": "config---comites-5-e-9-592"
+  },
+  "/markdown-page-a2c": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/quem-somos-nos-76a": {
+    "__comp": "__comp---site-src-pages-quem-somos-nos-tsx-489-a0d",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "config": "config---comites-5-e-9-592"
+  },
+  "/secretariado-53f": {
+    "__comp": "__comp---site-src-pages-secretariado-tsx-75-d-d2b",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "config": "config---comites-5-e-9-592"
+  },
+  "/docs-776": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-653-871"
+    }
+  },
+  "/docs-4ba": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-305": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/category/edições-passadas-702": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-edicoes-passadasc-1-f-49c"
+  },
+  "/docs/category/senamun-iii-951": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-senamun-iii-74-a-1d4"
+  },
+  "/docs/Edições Passadas/senamun-i-d10": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-edicoes-passadas-senamun-id-0-b-614"
+  },
+  "/docs/Edições Passadas/senamun-ii-0cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-edicoes-passadas-senamun-iifac-70b"
+  },
+  "/docs/fale-conosco-dda": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-fale-conosco-1-b-4-1c1"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/Senamun III/congratulations-839": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-senamun-iii-congratulationsec-9-b4e"
+  },
+  "/docs/Senamun III/create-a-blog-post-1ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-senamun-iii-create-a-blog-post-802-c89"
+  },
+  "/docs/Senamun III/create-a-document-907": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-senamun-iii-create-a-document-04-c-888"
+  },
+  "/docs/Senamun III/create-a-page-0d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-senamun-iii-create-a-pageeb-6-f49"
+  },
+  "/docs/Senamun III/deploy-your-site-4b7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-senamun-iii-deploy-your-sitee-35-a8f"
+  },
+  "/docs/Senamun III/markdown-features-aae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-senamun-iii-markdown-features-95-c-fea"
+  },
+  "/-e98": {
+    "__comp": "__comp---site-src-pages-index-jsx-9-dd-cb1",
+    "__context": {
+      "plugin": "plugin---comites-401-6f1"
+    },
+    "config": "config---comites-5-e-9-592"
+  }
+}

@@ -43,15 +43,11 @@ const config = {
           sidebarPath: './sidebars.js',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -71,22 +67,61 @@ const config = {
           alt: 'Logo SENAMUN',
           src: 'img/logo.svg',
         }, 
+
+        
         items: [
           {
-            type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            type: 'dropdown',
+            label: 'Sobre Nós',
             position: 'right',
-            label: 'SenaMUN 2024',
+            items: [
+              {
+              label: 'Quem Somos',
+              to: '/docs/intro',
+            },
+            {
+              label: 'Secretariado',
+              to: '/secretariado',
+            },
+            ],
           },
-          {to: '/blog', label: 'Notícias', position: 'right'},
-          {to: '/blog', label: 'Recursos', position: 'right'},
           {
-            href: 'https://linktr.ee/senamun.links',
+            type: 'dropdown',
+          label: 'Senamun 2024',
+          position: 'right',
+          items: [
+            {
+              label: 'Comitês',
+              to: '/comites',
+            },
+            {
+              label: 'Equipe',
+              to: '/equipe',
+            },
+            {
+              label: 'Cronograma',
+              to: '/cronograma',
+            },
+            {
+              label: 'Recursos',
+              to: '/recursos',
+            },
+            {
+              label: 'Mapa',
+              to: '/mapa',
+            },
+            {
+              label: 'Notícias',
+              to: '/blog',
+            },
+            // ... more items
+          ],
+          },
+          {
+            to: '/docs/fale-conosco',
             label: 'Fale Conosco',
             position: 'right',
           },
-
-
         ],
       },
       footer: {
@@ -98,23 +133,6 @@ const config = {
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'TikTok',
-                href: 'https://www.tiktok.com/@senacmun?_t=8kp3yJ88AEP&_r=1',
               },
             ],
           },

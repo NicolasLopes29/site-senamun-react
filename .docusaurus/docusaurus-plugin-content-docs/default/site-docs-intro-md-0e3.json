@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Quem somos?",
+  "description": "As simulações da ONU, também conhecidas como MUN (Modelo United Nations) são eventos acadêmicos onde alunos atuam como delegações, imprensa e movimentos sociais para representar países e organizações dentro do cenário político internacional, tendo como objetivo debater e apresentar soluções coerentes de acordo com a proposta de cada comitê.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Senamun III",
+    "permalink": "/docs/category/senamun-iii"
+  }
+}

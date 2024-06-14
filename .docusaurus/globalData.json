@@ -1,0 +1,88 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Edições Passadas/senamun-i",
+              "path": "/docs/Edições Passadas/senamun-i",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Edições Passadas/senamun-ii",
+              "path": "/docs/Edições Passadas/senamun-ii",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "fale-conosco",
+              "path": "/docs/fale-conosco",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Senamun III/congratulations",
+              "path": "/docs/Senamun III/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Senamun III/create-a-blog-post",
+              "path": "/docs/Senamun III/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Senamun III/create-a-document",
+              "path": "/docs/Senamun III/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Senamun III/create-a-page",
+              "path": "/docs/Senamun III/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Senamun III/deploy-your-site",
+              "path": "/docs/Senamun III/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Senamun III/markdown-features",
+              "path": "/docs/Senamun III/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/senamun-iii",
+              "path": "/docs/category/senamun-iii",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/edições-passadas",
+              "path": "/docs/category/edições-passadas",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Senamun III",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/senamun-iii",
+  "permalink": "/docs/category/senamun-iii",
+  "navigation": {
+    "previous": {
+      "title": "Quem somos?",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/docs/Senamun III/create-a-page"
+    }
+  }
+}

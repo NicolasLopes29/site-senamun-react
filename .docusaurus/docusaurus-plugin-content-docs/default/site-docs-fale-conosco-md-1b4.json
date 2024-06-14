@@ -1,0 +1,22 @@
+{
+  "id": "fale-conosco",
+  "title": "Fale conosco",
+  "description": "Você pode nos contatar no email senamun@gmail.com ou pelas nossas redes sociais.",
+  "source": "@site/docs/fale-conosco.md",
+  "sourceDirName": ".",
+  "slug": "/fale-conosco",
+  "permalink": "/docs/fale-conosco",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Senamun II",
+    "permalink": "/docs/Edições Passadas/senamun-ii"
+  }
+}
